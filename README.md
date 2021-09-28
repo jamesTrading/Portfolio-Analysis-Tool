@@ -9,3 +9,6 @@ The dividends were then looked into to make sure they cover interest payments on
 The US mean variance excel sheet completes similiar analysis to the AUS ETFs analysis, except uses both shares and ETFs. The data used is adjusted close for the 
 splits and dividends to be taken into account. There was also a maximum put on each individual weighting of 0.16 so that there would have to be at least 6 holdings in the
 portfolio. This was the only constraint, aside from there being no shorting again.
+
+As an extension on this I have coded a value screener that looks through all ASX companies, and all lower cap Russell 3000 companies and outputs in excel sheets ones that have 
+certain value features. This list is going towards the investments into smaller cap companies as the satellites to the mega cap and index core.
